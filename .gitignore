@@ -1,2 +1,3 @@
 compose/garage.toml
 *.env
+.env
