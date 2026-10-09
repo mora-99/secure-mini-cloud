@@ -3,3 +3,4 @@ compose/garage.toml
 .env
 .venv/
 __pycache__/
+console/audit.log*
